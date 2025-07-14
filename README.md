@@ -27,3 +27,7 @@ translator-app
 1. Clone the repository:
    ```bash
    git clone https://github.com/amisha8o/Translator_App_Project
+   
+## 🔗 Live Demo
+
+👉 Click here :
