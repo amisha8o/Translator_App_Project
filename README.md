@@ -30,4 +30,4 @@ translator-app
    
 ## 🔗 Live Demo
 
-👉 Click here :
+👉 Click here :https://amisha8o.github.io/Translator_App_Project/
